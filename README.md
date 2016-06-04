@@ -1,2 +1,2 @@
-# formbuilder
-Form Builder in Angular
+# Form Builder
+Form Builder in AngularJS.
